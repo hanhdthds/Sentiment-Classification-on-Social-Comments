@@ -20,11 +20,11 @@
 
 ## Code
 
-* All codes are in this repo are implemented in Google Colab and organized in  <a href="https://github.com/hanhdthds/Sentiment-Classification-on-Social-Comments/blob/c178801ce2b4bc38e7f1d66b357429bccddd48af/Baseline_1.ipynb" target="_blank">'baseline_1.ipynb'</a> file.
+* All codes are in this repo are implemented in Google Colab and organized in '<a href="https://github.com/hanhdthds/Sentiment-Classification-on-Social-Comments/blob/c178801ce2b4bc38e7f1d66b357429bccddd48af/Baseline_1.ipynb" target="_blank">baseline_1.ipynb</a>' file.
 
 ## Text Report
 
-* <a href="guildlines_UITVLFC.pdf" target="_blank">Guildlines</a>
+* <a href="guildlines_UITVLFC.pdf" target="_blank">Guildlines for annotators</a>
 * <a href="Phân Loại Cảm Xúc Cho Tiếng Việt Với Các Bình Luận Về Son.pdf" target="_blank">Report</a>
 
 ## References
