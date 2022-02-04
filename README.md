@@ -1,6 +1,6 @@
 # Sentiment-Classification-on-Social-Comments
-* Data-Science-thesis-1 | DS202
-* UIT | 2020
+Data-Science-thesis-1 | DS202
+UIT | 2020
 
 ## About
 
